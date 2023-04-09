@@ -1,0 +1,5 @@
+In this version, we have performed the list of steps :
+
+1. We have got the member details from the database itself.
+2. We have added the member details to our existing assigned members list and updated the list in the database.
+3. We have done all the programming steps to achieve it.
